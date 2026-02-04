@@ -3,6 +3,7 @@
   "projectTitle": "Memorization Tool",
   "description": "Interactive flashcard memorization tool for study practice.",
   "projectType": ["Web App"],
+  "projectUrl": "https://cra.link/deployment",
   "githubUrl": "https://github.com/umsi211F2025/final-project-ryanlr-ops.git",
   "projectImage": "memorization-tool-1.png",
   "tags": ["React", "TypeScript", "Flashcards"],
